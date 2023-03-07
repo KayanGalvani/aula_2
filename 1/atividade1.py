@@ -6,4 +6,4 @@ print ("CPF: 111.222.333-44")
 if idade < 18:
     print ("Você é Menor de idade" )
 else: print ("Você é menor de idade")
-
+ 
